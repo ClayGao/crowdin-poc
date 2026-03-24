@@ -1,0 +1,213 @@
+{
+  "common": {
+    "nav": {
+      "home": "Accueil",
+      "products": "Produits",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "footer": {
+      "company": "Positive Grid",
+      "copyright": "© 2026 Positive Grid. Tous droits réservés.",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d'utilisation",
+      "followUs": "Suivez-nous",
+      "newsletter": "Abonnez-vous à notre newsletter",
+      "emailPlaceholder": "Entrez votre e-mail",
+      "subscribe": "S'abonner",
+      "subscribeSuccess": "Merci pour votre abonnement !",
+      "description": "Nous créons des technologies musicales innovantes qui permettent aux musiciens du monde entier de réaliser leur vision créative."
+    },
+    "languageSwitcher": {
+      "label": "Sélectionnez votre marché",
+      "currentMarket": "Marché actuel"
+    },
+    "buttons": {
+      "learnMore": "En savoir plus",
+      "buyNow": "Acheter maintenant",
+      "addToCart": "Ajouter au panier",
+      "viewAll": "Voir tout",
+      "submit": "Envoyer",
+      "cancel": "Annuler",
+      "backToHome": "Retour à l'accueil"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Libérez votre potentiel musical",
+      "subtitle": "Amplis guitare, effets et outils de création musicale de qualité professionnelle — conçus pour les musiciens qui exigent l'excellence.",
+      "cta": "Découvrir nos produits",
+      "secondaryCta": "Voir la démo"
+    },
+    "features": {
+      "sectionTitle": "Pourquoi les musiciens nous choisissent",
+      "sectionSubtitle": "Découvrez ce qui distingue nos produits de la concurrence",
+      "tone": {
+        "title": "Sonorité de classe mondiale",
+        "description": "Vivez des sons d'amplis authentiques propulsés par notre technologie de modélisation BIAS exclusive. Du chaleureux vintage au high-gain moderne, chaque nuance est capturée avec une précision époustouflante."
+      },
+      "portable": {
+        "title": "Jouez partout",
+        "description": "Nos amplis intelligents et pédales sont conçus pour une vie en mouvement. Légers, alimentés par batterie et Bluetooth — votre studio vous suit partout."
+      },
+      "community": {
+        "title": "Communauté mondiale",
+        "description": "Rejoignez plus de 3 millions de musiciens sur ToneCloud. Partagez des presets, découvrez de nouveaux sons et connectez-vous avec des artistes du monde entier."
+      },
+      "software": {
+        "title": "Logiciel puissant",
+        "description": "BIAS FX 2, BIAS Amp 2 et notre suite de plugins s'intègrent parfaitement à votre DAW préféré. Des résultats professionnels sans le prix professionnel."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "Ce que disent les musiciens",
+      "items": {
+        "guitarist": {
+          "quote": "L'ampli Spark a complètement changé ma façon de pratiquer. La fonctionnalité Smart Jam, c'est comme avoir un groupe qui vous suit parfaitement.",
+          "author": "Marcus Chen",
+          "role": "Guitariste de session, Los Angeles"
+        },
+        "producer": {
+          "quote": "BIAS FX 2 est mon plugin incontournable pour les pistes de guitare. La qualité sonore rivalise avec du matériel dix fois plus cher.",
+          "author": "Sarah Lindberg",
+          "role": "Productrice musicale, Stockholm"
+        },
+        "teacher": {
+          "quote": "Je recommande Spark à tous mes élèves. Les leçons intégrées et les pistes d'accompagnement rendent la pratique amusante et efficace.",
+          "author": "Takeshi Yamamoto",
+          "role": "Professeur de guitare, Tokyo"
+        }
+      }
+    },
+    "newsletter": {
+      "title": "Restez informé",
+      "description": "Recevez les dernières nouvelles sur les sorties de produits, des offres exclusives et des conseils de musiciens professionnels directement dans votre boîte mail.",
+      "placeholder": "Votre adresse e-mail",
+      "cta": "S'inscrire maintenant",
+      "disclaimer": "Nous respectons votre vie privée. Désinscription possible à tout moment."
+    }
+  },
+  "products": {
+    "pageTitle": "Nos produits",
+    "pageDescription": "Explorez notre gamme complète d'amplis intelligents, de pédales d'effets et de logiciels musicaux conçus pour tous les niveaux de musiciens.",
+    "filter": {
+      "all": "Tous les produits",
+      "amps": "Amplis intelligents",
+      "pedals": "Pédales d'effets",
+      "software": "Logiciel",
+      "accessories": "Accessoires"
+    },
+    "sort": {
+      "label": "Trier par",
+      "featured": "En vedette",
+      "priceLow": "Prix : croissant",
+      "priceHigh": "Prix : décroissant",
+      "newest": "Plus récent d'abord"
+    },
+    "items": {
+      "spark40": {
+        "name": "Spark 40",
+        "description": "L'ampli guitare intelligent ultime avec 40 watts de puissance. Avec Smart Jam, Auto Chords et accès à plus de 50 000 sons sur ToneCloud.",
+        "price": "From $299",
+        "badge": "Meilleure vente"
+      },
+      "sparkMini": {
+        "name": "Spark MINI",
+        "description": "Un grand son dans un petit format. Ampli portable 10 watts avec batterie rechargeable, streaming audio Bluetooth et toutes les fonctionnalités intelligentes que vous aimez.",
+        "price": "From $199",
+        "badge": "Nouveau"
+      },
+      "sparkGo": {
+        "name": "Spark GO",
+        "description": "Le plus petit ampli intelligent du monde. Tient dans votre paume, offre un son incroyable. Parfait pour s'entraîner partout, à tout moment.",
+        "price": "From $99",
+        "badge": "Compact"
+      },
+      "biasFx2": {
+        "name": "BIAS FX 2",
+        "description": "Plugin processeur d'effets guitare professionnel. Plus de 200 effets, 32 amplis et une interface de chaîne de signal intuitive pour votre DAW.",
+        "price": "From $99",
+        "badge": "Très bien noté"
+      },
+      "biasAmp2": {
+        "name": "BIAS Amp 2",
+        "description": "Concevez l'ampli de vos rêves de zéro. La technologie Amp Match vous permet de cloner n'importe quel son d'ampli réel avec une précision scientifique.",
+        "price": "From $79",
+        "badge": ""
+      },
+      "riff": {
+        "name": "Riff",
+        "description": "Interface audio conçue pour les guitaristes. Latence ultra-faible, convertisseurs premium et intégration transparente avec notre écosystème logiciel.",
+        "price": "From $149",
+        "badge": "Essentiel"
+      }
+    },
+    "noResults": "Aucun produit trouvé correspondant à vos critères.",
+    "addedToCart": "{product} a été ajouté à votre panier."
+  },
+  "about": {
+    "pageTitle": "À propos de Positive Grid",
+    "pageDescription": "Notre mission est de rendre la création musicale accessible, inspirante et amusante pour tous.",
+    "story": {
+      "title": "Notre histoire",
+      "paragraph1": "Fondée en 2010, Positive Grid est née d'une idée simple : utiliser la technologie de pointe pour rendre les outils musicaux professionnels accessibles à tous. Ce qui a commencé comme une petite équipe d'ingénieurs et de musiciens est devenu une entreprise mondiale au service de millions de créateurs.",
+      "paragraph2": "Notre percée est venue avec le développement de la technologie BIAS — un système de modélisation d'amplis exclusif qui capture le comportement authentique des vrais amplis à lampes. Cette technologie propulse tout ce que nous créons, de nos plugins primés à nos révolutionnaires amplis intelligents Spark.",
+      "paragraph3": "Aujourd'hui, les produits Positive Grid sont utilisés par des guitaristes amateurs, des professionnels en tournée et tout ce qui se trouve entre les deux. Nous sommes fiers d'avoir bâti une communauté de plus de 3 millions de musiciens dans 120 pays qui partagent notre passion pour un son exceptionnel et une technologie innovante."
+    },
+    "stats": {
+      "musicians": "3M+ Musiciens",
+      "musiciansLabel": "Utilisateurs actifs dans le monde",
+      "countries": "120+ Pays",
+      "countriesLabel": "Portée mondiale",
+      "tones": "50K+ Sons",
+      "tonesLabel": "Sur ToneCloud",
+      "awards": "30+ Récompenses",
+      "awardsLabel": "Reconnaissance de l'industrie"
+    },
+    "team": {
+      "title": "Notre équipe",
+      "description": "Nous sommes une équipe diversifiée de musiciens, d'ingénieurs et de designers unis par notre amour de la musique et de la technologie.",
+      "ceo": {
+        "name": "Yolanda Chiang",
+        "role": "PDG & Co-fondatrice",
+        "bio": "Yolanda dirige Positive Grid avec la vision de démocratiser la création musicale grâce à la technologie."
+      },
+      "cto": {
+        "name": "Jay Yang",
+        "role": "Directeur technique & Co-fondateur",
+        "bio": "Jay conçoit la technologie DSP et d'apprentissage automatique au cœur de nos produits."
+      },
+      "design": {
+        "name": "Kelly Wu",
+        "role": "Responsable Design",
+        "bio": "Kelly veille à ce que chaque produit offre une expérience utilisateur intuitive et agréable."
+      }
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "description": "Des questions ou des commentaires ? Nous serions ravis de vous entendre.",
+      "nameLabel": "Votre nom",
+      "namePlaceholder": "Entrez votre nom complet",
+      "emailLabel": "Adresse e-mail",
+      "emailPlaceholder": "Entrez votre adresse e-mail",
+      "subjectLabel": "Sujet",
+      "subjectPlaceholder": "De quoi s'agit-il ?",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Dites-nous ce que vous avez en tête...",
+      "submit": "Envoyer le message",
+      "successMessage": "Merci ! Nous vous répondrons dans les 24 heures."
+    }
+  },
+  "errors": {
+    "notFound": {
+      "title": "Page introuvable",
+      "description": "Désolé, nous n'avons pas pu trouver la page que vous recherchez. Elle a peut-être été déplacée ou n'existe plus.",
+      "cta": "Retour à l'accueil"
+    },
+    "generic": {
+      "title": "Une erreur s'est produite",
+      "description": "Nous rencontrons des difficultés techniques. Veuillez réessayer plus tard.",
+      "cta": "Réessayer"
+    }
+  }
+}

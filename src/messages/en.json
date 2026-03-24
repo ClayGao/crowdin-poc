@@ -1,0 +1,213 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "footer": {
+      "company": "Positive Grid",
+      "copyright": "© 2026 Positive Grid. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "followUs": "Follow Us",
+      "newsletter": "Subscribe to our newsletter",
+      "emailPlaceholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "subscribeSuccess": "Thanks for subscribing!",
+      "description": "We create innovative music technology that empowers musicians worldwide to achieve their creative vision."
+    },
+    "languageSwitcher": {
+      "label": "Select your market",
+      "currentMarket": "Current market"
+    },
+    "buttons": {
+      "learnMore": "Learn More",
+      "buyNow": "Buy Now",
+      "addToCart": "Add to Cart",
+      "viewAll": "View All",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "backToHome": "Back to Home"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Unleash Your Musical Potential",
+      "subtitle": "Professional-grade guitar amps, effects, and music creation tools — designed for musicians who demand excellence.",
+      "cta": "Explore Our Products",
+      "secondaryCta": "Watch Demo"
+    },
+    "features": {
+      "sectionTitle": "Why Musicians Choose Us",
+      "sectionSubtitle": "Discover what makes our products stand out from the crowd",
+      "tone": {
+        "title": "World-Class Tone",
+        "description": "Experience authentic amp tones powered by our proprietary BIAS modeling technology. From vintage warmth to modern high-gain, every nuance is captured with stunning accuracy."
+      },
+      "portable": {
+        "title": "Play Anywhere",
+        "description": "Our smart amps and pedals are designed for life on the move. Lightweight, battery-powered, and Bluetooth-enabled — your studio goes wherever you go."
+      },
+      "community": {
+        "title": "Global Community",
+        "description": "Join over 3 million musicians on ToneCloud. Share presets, discover new sounds, and connect with artists from around the world."
+      },
+      "software": {
+        "title": "Powerful Software",
+        "description": "BIAS FX 2, BIAS Amp 2, and our suite of plugins integrate seamlessly with your favorite DAW. Professional results without the professional price tag."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "What Musicians Say",
+      "items": {
+        "guitarist": {
+          "quote": "The Spark amp completely changed how I practice. The smart jam feature is like having a band that follows you perfectly.",
+          "author": "Marcus Chen",
+          "role": "Session Guitarist, Los Angeles"
+        },
+        "producer": {
+          "quote": "BIAS FX 2 is my go-to plugin for guitar tracks. The tone quality rivals hardware that costs ten times more.",
+          "author": "Sarah Lindberg",
+          "role": "Music Producer, Stockholm"
+        },
+        "teacher": {
+          "quote": "I recommend Spark to all my students. The built-in lessons and backing tracks make practice fun and effective.",
+          "author": "Takeshi Yamamoto",
+          "role": "Guitar Instructor, Tokyo"
+        }
+      }
+    },
+    "newsletter": {
+      "title": "Stay in the Loop",
+      "description": "Get the latest news on product releases, exclusive deals, and tips from pro musicians delivered straight to your inbox.",
+      "placeholder": "Your email address",
+      "cta": "Sign Up Now",
+      "disclaimer": "We respect your privacy. Unsubscribe at any time."
+    }
+  },
+  "products": {
+    "pageTitle": "Our Products",
+    "pageDescription": "Explore our complete lineup of smart amps, effects pedals, and music software designed for every level of musician.",
+    "filter": {
+      "all": "All Products",
+      "amps": "Smart Amps",
+      "pedals": "Effects Pedals",
+      "software": "Software",
+      "accessories": "Accessories"
+    },
+    "sort": {
+      "label": "Sort by",
+      "featured": "Featured",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "newest": "Newest First"
+    },
+    "items": {
+      "spark40": {
+        "name": "Spark 40",
+        "description": "The ultimate smart guitar amp with 40 watts of power. Features Smart Jam, Auto Chords, and access to over 50,000 tones on ToneCloud.",
+        "price": "From $299",
+        "badge": "Best Seller"
+      },
+      "sparkMini": {
+        "name": "Spark MINI",
+        "description": "Big tone in a tiny package. 10-watt portable amp with rechargeable battery, Bluetooth audio streaming, and all the smart features you love.",
+        "price": "From $199",
+        "badge": "New"
+      },
+      "sparkGo": {
+        "name": "Spark GO",
+        "description": "The world's smallest smart amp. Fits in your palm, delivers incredible tone. Perfect for practice anywhere, anytime.",
+        "price": "From $99",
+        "badge": "Compact"
+      },
+      "biasFx2": {
+        "name": "BIAS FX 2",
+        "description": "Professional guitar effects processor plugin. 200+ effects, 32 amps, and an intuitive signal chain interface for your DAW.",
+        "price": "From $99",
+        "badge": "Top Rated"
+      },
+      "biasAmp2": {
+        "name": "BIAS Amp 2",
+        "description": "Design your dream amp from scratch. Amp Match technology lets you clone any real amp tone with scientific precision.",
+        "price": "From $79",
+        "badge": ""
+      },
+      "riff": {
+        "name": "Riff",
+        "description": "Audio interface designed for guitarists. Ultra-low latency, premium converters, and seamless integration with our software ecosystem.",
+        "price": "From $149",
+        "badge": "Essential"
+      }
+    },
+    "noResults": "No products found matching your criteria.",
+    "addedToCart": "{product} has been added to your cart."
+  },
+  "about": {
+    "pageTitle": "About Positive Grid",
+    "pageDescription": "We're on a mission to make music creation accessible, inspiring, and fun for everyone.",
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "Founded in 2010, Positive Grid started with a simple idea: use cutting-edge technology to make professional-quality music tools accessible to everyone. What began as a small team of engineers and musicians has grown into a global company serving millions of creators.",
+      "paragraph2": "Our breakthrough came with the development of BIAS technology — a proprietary amp modeling system that captures the authentic behavior of real tube amplifiers. This technology powers everything we build, from our award-winning software plugins to our revolutionary Spark smart amps.",
+      "paragraph3": "Today, Positive Grid products are used by bedroom guitarists, touring professionals, and everyone in between. We're proud to have built a community of over 3 million musicians across 120 countries who share our passion for great tone and innovative technology."
+    },
+    "stats": {
+      "musicians": "3M+ Musicians",
+      "musiciansLabel": "Active users worldwide",
+      "countries": "120+ Countries",
+      "countriesLabel": "Global reach",
+      "tones": "50K+ Tones",
+      "tonesLabel": "On ToneCloud",
+      "awards": "30+ Awards",
+      "awardsLabel": "Industry recognition"
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "description": "We're a diverse team of musicians, engineers, and designers united by our love for music and technology.",
+      "ceo": {
+        "name": "Yolanda Chiang",
+        "role": "CEO & Co-Founder",
+        "bio": "Yolanda leads Positive Grid with a vision to democratize music creation through technology."
+      },
+      "cto": {
+        "name": "Jay Yang",
+        "role": "CTO & Co-Founder",
+        "bio": "Jay architects the core DSP and machine learning technology behind our products."
+      },
+      "design": {
+        "name": "Kelly Wu",
+        "role": "Head of Design",
+        "bio": "Kelly ensures every product delivers an intuitive and delightful user experience."
+      }
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "description": "Have questions or feedback? We'd love to hear from you.",
+      "nameLabel": "Your Name",
+      "namePlaceholder": "Enter your full name",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "What is this regarding?",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us what's on your mind...",
+      "submit": "Send Message",
+      "successMessage": "Thank you! We'll get back to you within 24 hours."
+    }
+  },
+  "errors": {
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "Sorry, we couldn't find the page you're looking for. It may have been moved or no longer exists.",
+      "cta": "Return to Homepage"
+    },
+    "generic": {
+      "title": "Something Went Wrong",
+      "description": "We're experiencing technical difficulties. Please try again later.",
+      "cta": "Try Again"
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "common": {
+    "nav": {
+      "home": "Startseite",
+      "products": "Produkte",
+      "about": "Über uns",
+      "contact": "Kontakt"
+    },
+    "footer": {
+      "company": "Positive Grid",
+      "copyright": "© 2026 Positive Grid. Alle Rechte vorbehalten.",
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen",
+      "followUs": "Folge uns",
+      "newsletter": "Abonniere unseren Newsletter",
+      "emailPlaceholder": "E-Mail-Adresse eingeben",
+      "subscribe": "Abonnieren",
+      "subscribeSuccess": "Danke für dein Abonnement!",
+      "description": "Wir entwickeln innovative Musiktechnologie, die Musikern weltweit hilft, ihre kreative Vision zu verwirklichen."
+    },
+    "languageSwitcher": {
+      "label": "Markt auswählen",
+      "currentMarket": "Aktueller Markt"
+    },
+    "buttons": {
+      "learnMore": "Mehr erfahren",
+      "buyNow": "Jetzt kaufen",
+      "addToCart": "In den Warenkorb",
+      "viewAll": "Alle anzeigen",
+      "submit": "Absenden",
+      "cancel": "Abbrechen",
+      "backToHome": "Zurück zur Startseite"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Entfessle dein musikalisches Potenzial",
+      "subtitle": "Gitarren-Verstärker, Effekte und Musikproduktionswerkzeuge in professioneller Qualität — entwickelt für Musiker, die das Beste verlangen.",
+      "cta": "Unsere Produkte entdecken",
+      "secondaryCta": "Demo ansehen"
+    },
+    "features": {
+      "sectionTitle": "Warum Musiker uns wählen",
+      "sectionSubtitle": "Entdecke, was unsere Produkte von der Masse abhebt",
+      "tone": {
+        "title": "Weltklasse-Klang",
+        "description": "Erlebe authentische Verstärker-Sounds, angetrieben von unserer proprietären BIAS-Modeling-Technologie. Von vintagewarmen bis hin zu modernen High-Gain-Sounds — jede Nuance wird mit atemberaubender Präzision eingefangen."
+      },
+      "portable": {
+        "title": "Überall spielen",
+        "description": "Unsere Smart-Verstärker und Pedale sind fürs Leben unterwegs konzipiert. Leicht, akkubetrieben und Bluetooth-fähig — dein Studio geht überall mit."
+      },
+      "community": {
+        "title": "Globale Community",
+        "description": "Schließ dich über 3 Millionen Musikern auf ToneCloud an. Teile Presets, entdecke neue Sounds und verbinde dich mit Künstlern aus aller Welt."
+      },
+      "software": {
+        "title": "Leistungsstarke Software",
+        "description": "BIAS FX 2, BIAS Amp 2 und unsere Plugin-Suite integrieren sich nahtlos in deine bevorzugte DAW. Professionelle Ergebnisse ohne den professionellen Preis."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "Was Musiker sagen",
+      "items": {
+        "guitarist": {
+          "quote": "Der Spark-Verstärker hat mein Üben komplett verändert. Das Smart Jam-Feature ist, als hätte man eine Band, die einem perfekt folgt.",
+          "author": "Marcus Chen",
+          "role": "Session-Gitarrist, Los Angeles"
+        },
+        "producer": {
+          "quote": "BIAS FX 2 ist mein bevorzugtes Plugin für Gitarrenspuren. Die Klangqualität konkurriert mit Hardware, die zehnmal mehr kostet.",
+          "author": "Sarah Lindberg",
+          "role": "Musikproduzentin, Stockholm"
+        },
+        "teacher": {
+          "quote": "Ich empfehle Spark all meinen Schülern. Die eingebauten Lektionen und Backing-Tracks machen das Üben spaßig und effektiv.",
+          "author": "Takeshi Yamamoto",
+          "role": "Gitarrenlehrer, Tokio"
+        }
+      }
+    },
+    "newsletter": {
+      "title": "Bleib auf dem Laufenden",
+      "description": "Erhalte die neuesten Nachrichten zu Produktveröffentlichungen, exklusiven Angeboten und Tipps von Profi-Musikern direkt in dein Postfach.",
+      "placeholder": "Deine E-Mail-Adresse",
+      "cta": "Jetzt anmelden",
+      "disclaimer": "Wir respektieren deine Privatsphäre. Jederzeit abmelden."
+    }
+  },
+  "products": {
+    "pageTitle": "Unsere Produkte",
+    "pageDescription": "Entdecke unser komplettes Sortiment an Smart-Verstärkern, Effektpedalen und Musiksoftware für jeden Musikerlevel.",
+    "filter": {
+      "all": "Alle Produkte",
+      "amps": "Smart-Verstärker",
+      "pedals": "Effektpedale",
+      "software": "Software",
+      "accessories": "Zubehör"
+    },
+    "sort": {
+      "label": "Sortieren nach",
+      "featured": "Empfohlen",
+      "priceLow": "Preis: Aufsteigend",
+      "priceHigh": "Preis: Absteigend",
+      "newest": "Neueste zuerst"
+    },
+    "items": {
+      "spark40": {
+        "name": "Spark 40",
+        "description": "Der ultimative Smart-Gitarrenverstärker mit 40 Watt Leistung. Mit Smart Jam, Auto Chords und Zugang zu über 50.000 Sounds auf ToneCloud.",
+        "price": "From $299",
+        "badge": "Bestseller"
+      },
+      "sparkMini": {
+        "name": "Spark MINI",
+        "description": "Großer Klang im kleinen Format. 10-Watt-Portableverstärker mit aufladbarem Akku, Bluetooth-Audio-Streaming und allen Smart-Features, die du liebst.",
+        "price": "From $199",
+        "badge": "Neu"
+      },
+      "sparkGo": {
+        "name": "Spark GO",
+        "description": "Der kleinste Smart-Verstärker der Welt. Passt in deine Handfläche und liefert unglaublichen Klang. Perfekt zum Üben überall und jederzeit.",
+        "price": "From $99",
+        "badge": "Kompakt"
+      },
+      "biasFx2": {
+        "name": "BIAS FX 2",
+        "description": "Professionelles Gitarreneffekt-Prozessor-Plugin. 200+ Effekte, 32 Verstärker und eine intuitive Signalketten-Oberfläche für deine DAW.",
+        "price": "From $99",
+        "badge": "Top-Bewertung"
+      },
+      "biasAmp2": {
+        "name": "BIAS Amp 2",
+        "description": "Entwirf deinen Traumverstärker von Grund auf. Die Amp-Match-Technologie ermöglicht dir das Klonen jedes realen Verstärker-Sounds mit wissenschaftlicher Präzision.",
+        "price": "From $79",
+        "badge": ""
+      },
+      "riff": {
+        "name": "Riff",
+        "description": "Audiointerface speziell für Gitarristen. Ultrageringe Latenz, hochwertige Wandler und nahtlose Integration in unser Software-Ökosystem.",
+        "price": "From $149",
+        "badge": "Unverzichtbar"
+      }
+    },
+    "noResults": "Keine Produkte gefunden, die deinen Kriterien entsprechen.",
+    "addedToCart": "{product} wurde deinem Warenkorb hinzugefügt."
+  },
+  "about": {
+    "pageTitle": "Über Positive Grid",
+    "pageDescription": "Wir haben die Mission, Musikproduktion für alle zugänglich, inspirierend und spaßig zu machen.",
+    "story": {
+      "title": "Unsere Geschichte",
+      "paragraph1": "Positive Grid wurde 2010 gegründet und startete mit einer einfachen Idee: modernste Technologie nutzen, um professionelle Musikwerkzeuge für alle zugänglich zu machen. Was als kleines Team aus Ingenieuren und Musikern begann, ist zu einem globalen Unternehmen gewachsen, das Millionen von Kreativen weltweit bedient.",
+      "paragraph2": "Unser Durchbruch kam mit der Entwicklung der BIAS-Technologie — einem proprietären Amp-Modeling-System, das das authentische Verhalten echter Röhrenverstärker einfängt. Diese Technologie treibt alles an, was wir bauen, von unseren preisgekrönten Software-Plugins bis hin zu unseren revolutionären Spark Smart-Verstärkern.",
+      "paragraph3": "Heute werden Positive Grid-Produkte von Hobbyisten, Tournee-Profis und allem dazwischen verwendet. Wir sind stolz darauf, eine Community von über 3 Millionen Musikern in 120 Ländern aufgebaut zu haben, die unsere Leidenschaft für großartigen Klang und innovative Technologie teilen."
+    },
+    "stats": {
+      "musicians": "3M+ Musiker",
+      "musiciansLabel": "Aktive Nutzer weltweit",
+      "countries": "120+ Länder",
+      "countriesLabel": "Globale Reichweite",
+      "tones": "50K+ Sounds",
+      "tonesLabel": "Auf ToneCloud",
+      "awards": "30+ Auszeichnungen",
+      "awardsLabel": "Branchenanerkennung"
+    },
+    "team": {
+      "title": "Unser Team",
+      "description": "Wir sind ein vielfältiges Team aus Musikern, Ingenieuren und Designern, vereint durch unsere Liebe zur Musik und Technologie.",
+      "ceo": {
+        "name": "Yolanda Chiang",
+        "role": "CEO & Mitgründerin",
+        "bio": "Yolanda führt Positive Grid mit der Vision, Musikproduktion durch Technologie zu demokratisieren."
+      },
+      "cto": {
+        "name": "Jay Yang",
+        "role": "CTO & Mitgründer",
+        "bio": "Jay entwickelt die zentrale DSP- und Machine-Learning-Technologie hinter unseren Produkten."
+      },
+      "design": {
+        "name": "Kelly Wu",
+        "role": "Leiterin Design",
+        "bio": "Kelly sorgt dafür, dass jedes Produkt eine intuitive und erfreuliche Benutzererfahrung bietet."
+      }
+    },
+    "contact": {
+      "title": "Kontakt aufnehmen",
+      "description": "Hast du Fragen oder Feedback? Wir freuen uns von dir zu hören.",
+      "nameLabel": "Dein Name",
+      "namePlaceholder": "Vollständigen Namen eingeben",
+      "emailLabel": "E-Mail-Adresse",
+      "emailPlaceholder": "E-Mail-Adresse eingeben",
+      "subjectLabel": "Betreff",
+      "subjectPlaceholder": "Worum geht es?",
+      "messageLabel": "Nachricht",
+      "messagePlaceholder": "Sag uns, was dir auf dem Herzen liegt...",
+      "submit": "Nachricht senden",
+      "successMessage": "Vielen Dank! Wir melden uns innerhalb von 24 Stunden."
+    }
+  },
+  "errors": {
+    "notFound": {
+      "title": "Seite nicht gefunden",
+      "description": "Leider konnten wir die gesuchte Seite nicht finden. Sie wurde möglicherweise verschoben oder existiert nicht mehr.",
+      "cta": "Zur Startseite"
+    },
+    "generic": {
+      "title": "Etwas ist schiefgelaufen",
+      "description": "Wir haben technische Schwierigkeiten. Bitte versuche es später erneut.",
+      "cta": "Erneut versuchen"
+    }
+  }
+}

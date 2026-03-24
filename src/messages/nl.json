@@ -1,0 +1,213 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "products": "Producten",
+      "about": "Over ons",
+      "contact": "Contact"
+    },
+    "footer": {
+      "company": "Positive Grid",
+      "copyright": "© 2026 Positive Grid. Alle rechten voorbehouden.",
+      "privacy": "Privacybeleid",
+      "terms": "Servicevoorwaarden",
+      "followUs": "Volg ons",
+      "newsletter": "Abonneer op onze nieuwsbrief",
+      "emailPlaceholder": "Voer je e-mail in",
+      "subscribe": "Abonneren",
+      "subscribeSuccess": "Bedankt voor je abonnement!",
+      "description": "Wij creëren innovatieve muziektechnologie die muzikanten wereldwijd in staat stelt hun creatieve visie te verwezenlijken."
+    },
+    "languageSwitcher": {
+      "label": "Selecteer je markt",
+      "currentMarket": "Huidige markt"
+    },
+    "buttons": {
+      "learnMore": "Meer informatie",
+      "buyNow": "Nu kopen",
+      "addToCart": "Toevoegen aan winkelwagen",
+      "viewAll": "Alles bekijken",
+      "submit": "Verzenden",
+      "cancel": "Annuleren",
+      "backToHome": "Terug naar home"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Ontketen je muzikale potentieel",
+      "subtitle": "Gitaarversterkers, effecten en muziekcreatiegereedschap van professionele kwaliteit — ontworpen voor muzikanten die het beste eisen.",
+      "cta": "Ontdek onze producten",
+      "secondaryCta": "Bekijk demo"
+    },
+    "features": {
+      "sectionTitle": "Waarom muzikanten ons kiezen",
+      "sectionSubtitle": "Ontdek wat onze producten onderscheidt van de rest",
+      "tone": {
+        "title": "Wereldklasse geluid",
+        "description": "Ervaar authentieke versterkergeluiden aangedreven door onze eigen BIAS-modelleringstechnologie. Van vintage warmte tot modern high-gain — elke nuance wordt vastgelegd met verbluffende precisie."
+      },
+      "portable": {
+        "title": "Speel overal",
+        "description": "Onze slimme versterkers en pedalen zijn ontworpen voor een leven onderweg. Licht, op batterijen en Bluetooth — jouw studio gaat overal mee naartoe."
+      },
+      "community": {
+        "title": "Wereldwijde gemeenschap",
+        "description": "Sluit je aan bij meer dan 3 miljoen muzikanten op ToneCloud. Deel presets, ontdek nieuwe geluiden en maak contact met artiesten van over de hele wereld."
+      },
+      "software": {
+        "title": "Krachtige software",
+        "description": "BIAS FX 2, BIAS Amp 2 en onze plugin-suite integreren naadloos met jouw favoriete DAW. Professionele resultaten zonder het professionele prijskaartje."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "Wat muzikanten zeggen",
+      "items": {
+        "guitarist": {
+          "quote": "De Spark-versterker heeft mijn manier van oefenen volledig veranderd. De Smart Jam-functie is alsof je een band hebt die je perfect volgt.",
+          "author": "Marcus Chen",
+          "role": "Sessiemuzikant, Los Angeles"
+        },
+        "producer": {
+          "quote": "BIAS FX 2 is mijn favoriete plugin voor gitaartracks. De klankkwaliteit evenaart hardware die tien keer meer kost.",
+          "author": "Sarah Lindberg",
+          "role": "Muziekproducent, Stockholm"
+        },
+        "teacher": {
+          "quote": "Ik raad Spark aan al mijn leerlingen aan. De ingebouwde lessen en begeleidingstracks maken oefenen leuk en effectief.",
+          "author": "Takeshi Yamamoto",
+          "role": "Gitaarleraar, Tokio"
+        }
+      }
+    },
+    "newsletter": {
+      "title": "Blijf op de hoogte",
+      "description": "Ontvang het laatste nieuws over productlanceringen, exclusieve deals en tips van professionele muzikanten rechtstreeks in je inbox.",
+      "placeholder": "Jouw e-mailadres",
+      "cta": "Nu aanmelden",
+      "disclaimer": "Wij respecteren je privacy. Uitschrijven kan op elk moment."
+    }
+  },
+  "products": {
+    "pageTitle": "Onze producten",
+    "pageDescription": "Ontdek ons complete assortiment slimme versterkers, effectpedalen en muzieksoftware ontworpen voor elk niveau van muzikant.",
+    "filter": {
+      "all": "Alle producten",
+      "amps": "Slimme versterkers",
+      "pedals": "Effectpedalen",
+      "software": "Software",
+      "accessories": "Accessoires"
+    },
+    "sort": {
+      "label": "Sorteren op",
+      "featured": "Uitgelicht",
+      "priceLow": "Prijs: laag naar hoog",
+      "priceHigh": "Prijs: hoog naar laag",
+      "newest": "Nieuwste eerst"
+    },
+    "items": {
+      "spark40": {
+        "name": "Spark 40",
+        "description": "De ultieme slimme gitaarversterker met 40 watt vermogen. Met Smart Jam, Auto Chords en toegang tot meer dan 50.000 geluiden op ToneCloud.",
+        "price": "From $299",
+        "badge": "Bestseller"
+      },
+      "sparkMini": {
+        "name": "Spark MINI",
+        "description": "Groot geluid in een klein formaat. Draagbare 10-watt versterker met oplaadbare batterij, Bluetooth-audiostreaming en alle slimme functies die je geweldig vindt.",
+        "price": "From $199",
+        "badge": "Nieuw"
+      },
+      "sparkGo": {
+        "name": "Spark GO",
+        "description": "De kleinste slimme versterker ter wereld. Past in je handpalm en levert ongelooflijk geluid. Ideaal om overal en altijd te oefenen.",
+        "price": "From $99",
+        "badge": "Compact"
+      },
+      "biasFx2": {
+        "name": "BIAS FX 2",
+        "description": "Professionele gitaareffecten-processorplugin. 200+ effecten, 32 versterkers en een intuïtieve signaalketeninterface voor jouw DAW.",
+        "price": "From $99",
+        "badge": "Hoog beoordeeld"
+      },
+      "biasAmp2": {
+        "name": "BIAS Amp 2",
+        "description": "Ontwerp je droomversterker van scratch. Amp Match-technologie laat je elk echt versterkergeluid klonen met wetenschappelijke precisie.",
+        "price": "From $79",
+        "badge": ""
+      },
+      "riff": {
+        "name": "Riff",
+        "description": "Audio-interface ontworpen voor gitaristen. Ultra-lage latentie, premium converters en naadloze integratie met ons software-ecosysteem.",
+        "price": "From $149",
+        "badge": "Essentieel"
+      }
+    },
+    "noResults": "Geen producten gevonden die aan jouw criteria voldoen.",
+    "addedToCart": "{product} is toegevoegd aan jouw winkelwagen."
+  },
+  "about": {
+    "pageTitle": "Over Positive Grid",
+    "pageDescription": "Onze missie is om muziekcreatie toegankelijk, inspirerend en leuk te maken voor iedereen.",
+    "story": {
+      "title": "Ons verhaal",
+      "paragraph1": "Opgericht in 2010 begon Positive Grid met een eenvoudig idee: gebruik geavanceerde technologie om professionele muziekinstrumenten voor iedereen toegankelijk te maken. Wat begon als een klein team van ingenieurs en muzikanten is uitgegroeid tot een wereldwijd bedrijf dat miljoenen makers bedient.",
+      "paragraph2": "Onze doorbraak kwam met de ontwikkeling van BIAS-technologie — een eigen amp-modelleringssysteem dat het authentieke gedrag van echte buisversterkers vastlegt. Deze technologie drijft alles aan wat we maken, van onze bekroonde softwareplugins tot onze revolutionaire Spark slimme versterkers.",
+      "paragraph3": "Tegenwoordig worden Positive Grid-producten gebruikt door thuisgitaristen, toerprofessionals en alles daartussenin. We zijn er trots op een gemeenschap van meer dan 3 miljoen muzikanten in 120 landen te hebben opgebouwd die onze passie voor geweldig geluid en innovatieve technologie delen."
+    },
+    "stats": {
+      "musicians": "3M+ Muzikanten",
+      "musiciansLabel": "Actieve gebruikers wereldwijd",
+      "countries": "120+ Landen",
+      "countriesLabel": "Wereldwijd bereik",
+      "tones": "50K+ Geluiden",
+      "tonesLabel": "Op ToneCloud",
+      "awards": "30+ Awards",
+      "awardsLabel": "Erkenning in de industrie"
+    },
+    "team": {
+      "title": "Ons team",
+      "description": "We zijn een divers team van muzikanten, ingenieurs en ontwerpers verenigd door onze liefde voor muziek en technologie.",
+      "ceo": {
+        "name": "Yolanda Chiang",
+        "role": "CEO & Medeoprichter",
+        "bio": "Yolanda leidt Positive Grid met de visie om muziekcreatie te democratiseren door middel van technologie."
+      },
+      "cto": {
+        "name": "Jay Yang",
+        "role": "CTO & Medeoprichter",
+        "bio": "Jay ontwerpt de kern-DSP- en machine-learningtechnologie achter onze producten."
+      },
+      "design": {
+        "name": "Kelly Wu",
+        "role": "Hoofd Design",
+        "bio": "Kelly zorgt ervoor dat elk product een intuïtieve en prettige gebruikerservaring biedt."
+      }
+    },
+    "contact": {
+      "title": "Neem contact op",
+      "description": "Vragen of feedback? We horen graag van je.",
+      "nameLabel": "Jouw naam",
+      "namePlaceholder": "Voer je volledige naam in",
+      "emailLabel": "E-mailadres",
+      "emailPlaceholder": "Voer je e-mailadres in",
+      "subjectLabel": "Onderwerp",
+      "subjectPlaceholder": "Waar gaat het over?",
+      "messageLabel": "Bericht",
+      "messagePlaceholder": "Vertel ons wat je denkt...",
+      "submit": "Bericht verzenden",
+      "successMessage": "Bedankt! We reageren binnen 24 uur."
+    }
+  },
+  "errors": {
+    "notFound": {
+      "title": "Pagina niet gevonden",
+      "description": "Sorry, we konden de pagina die je zoekt niet vinden. Mogelijk is deze verplaatst of bestaat ze niet meer.",
+      "cta": "Terug naar home"
+    },
+    "generic": {
+      "title": "Er is iets misgegaan",
+      "description": "We ondervinden technische problemen. Probeer het later opnieuw.",
+      "cta": "Opnieuw proberen"
+    }
+  }
+}
