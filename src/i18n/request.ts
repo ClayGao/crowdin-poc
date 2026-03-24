@@ -11,6 +11,7 @@ const messageImports: Record<Locale, () => Promise<{ default: Record<string, unk
   nl: () => import('@/messages/nl.json'),
   be: () => import('@/messages/be.json'),
   at: () => import('@/messages/at.json'),
+  tw: () => import('@/messages/tw.json'),
 }
 
 export default getRequestConfig(async ({ requestLocale }) => {

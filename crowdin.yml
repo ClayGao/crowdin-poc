@@ -27,6 +27,8 @@ files:
         fr-BE: be
         # Austria (de-AT) → at.json
         de-AT: at
+        # Taiwan (zh-TW) → tw.json
+        zh-TW: tw
 
     # JSON settings
     type: json

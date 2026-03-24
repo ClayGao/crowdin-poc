@@ -1,4 +1,4 @@
-export const locales = ['en', 'de', 'fr', 'it', 'es', 'nl', 'be', 'at'] as const
+export const locales = ['en', 'de', 'fr', 'it', 'es', 'nl', 'be', 'at', 'tw'] as const
 export type Locale = (typeof locales)[number]
 
 export const defaultLocale: Locale = 'en'
@@ -16,4 +16,5 @@ export const MARKETS: Record<Locale, { name: string; language: string; flag: str
   nl: { name: 'Netherlands', language: 'nl', flag: '🇳🇱' },
   be: { name: 'Belgium', language: 'fr', flag: '🇧🇪' },
   at: { name: 'Austria', language: 'de', flag: '🇦🇹' },
+  tw: { name: 'Taiwan', language: 'zh-TW', flag: '🇹🇼' },
 }
