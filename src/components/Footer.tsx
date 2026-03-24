@@ -72,7 +72,7 @@ export default async function Footer() {
             <h3 className="text-sm font-semibold text-gray-300 uppercase tracking-wider mb-4">
               {t('newsletter')}
             </h3>
-            <form className="flex flex-col gap-3" onSubmit={(e) => e.preventDefault()}>
+            <form className="flex flex-col gap-3" action="#">
               <input
                 type="email"
                 placeholder={t('emailPlaceholder')}
