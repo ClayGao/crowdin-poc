@@ -1,13 +1,9 @@
 files:
   - source: /src/messages/en.json
-    translation: /src/messages/%locale%.json
+    translation: /src/messages/%two_letters_code%.json
     languages_mapping:
-      locale:
-        de: de
-        fr: fr
-        it: it
+      two_letters_code:
         es-ES: es
-        nl: nl
         fr-BE: be
         de-AT: at
         zh-TW: tw
